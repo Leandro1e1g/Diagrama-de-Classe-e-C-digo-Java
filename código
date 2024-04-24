@@ -67,8 +67,7 @@ class Pagamento {
     }
 
     public boolean efetuarPagamento() {
-        // Lógica para efetuar o pagamento
-        return true; // Retorno fictício
+        return true;
     }
 }
 
